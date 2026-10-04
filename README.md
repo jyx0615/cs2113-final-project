@@ -13,6 +13,6 @@ Quotely is a desktop app for generating quotes in text form.
 - Quotely helps you get business in order faster than typing out the manifest and doing calculations manually.
 
 Useful links:
-* [User Guide](UserGuide.md)
-* [Developer Guide](DeveloperGuide.md)
-* [About Us](AboutUs.md)
+* [User Guide](https://jyx0615.github.io/tp/UserGuide.html)
+* [Developer Guide](https://jyx0615.github.io/tp/DeveloperGuide.html)
+* [About Us](https://jyx0615.github.io/tp/AboutUs.html)
